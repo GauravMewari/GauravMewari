@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Gaurav Mewari and I'm a Java developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left"><br>📚 I'm currently learning  Data Structure and Algorithm and MERN stack<br>🎯 Goals: To work in a Product base company<br>🎲 Fun fact: I listen to music while coding.</p>
 
 ###
 
