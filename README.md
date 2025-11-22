@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gaurav Mewari and I'm a Java developer.</p>
+<p align="left">My name is Gaurav Mewari and I'm a developer.</p>
 
 ###
 
